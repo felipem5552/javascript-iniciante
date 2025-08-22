@@ -1,18 +1,24 @@
+## 🔗 Atalhos Rápidos
+- [📘 Atividades](#-estrutura-do-repositório)  
+- [📖 Teoria](#-referências-de-estudo)  
+- [💻 Cursos](#-referências-de-estudo)  
+- [📄 PDFs](#-referências-de-estudo)  
+
 # Estudo JavaScript - Iniciante
 
-Comecei em **agosto/2025** meu estudo de programação com **JavaScript** para minha primeira linguagem.  
+Comecei em **agosto/2025** meu estudo de programação com **JavaScript**, minha primeira linguagem.  
 Este repositório é um **acervo completo de exercícios, teorias e recursos** para estudo contínuo.
 
 ---
 
 ## 🎯 Objetivos
 - 📌 Criar um **histórico organizado de atividades**  
-- 📌 Manter como **fonte de estudo prática e teórica**  
+- 📌 Manter uma **fonte de estudo prática e teórica**  
 - 📌 Compartilhar conteúdo útil para **quem está começando**  
 
 ---
 
-## 🙏 Agradecimentos para quem tornou possível esse sonho ser realizado
+## 🙏 Agradecimentos
 - 🎓 **IFG - Instituto Federal Goiano**  
 - 🎓 **Softex Pernambuco (Bolsa Futuro Digital)**  
 
@@ -43,8 +49,8 @@ Este repositório é um **acervo completo de exercícios, teorias e recursos** p
 
 ## 🗂 Estrutura do Repositório
 
-- 📂 **atividades** → códigos práticos que eu executei em sala de aula ou por iniciativa própria
-- 📂 **anotações** → focado em anotações explicativas e as teorias do curso.
+- 📂 **atividades** → códigos práticos  
+- 📂 **teoria** → anotações explicativas  
 - 📂 **recursos** → links, PDFs e outros materiais  
 
 ---
@@ -61,4 +67,6 @@ Este repositório é um **acervo completo de exercícios, teorias e recursos** p
 Este README será atualizado conforme o progresso, adicionando **novos exercícios, teorias e materiais de estudo**, mantendo tudo organizado para consulta rápida.  
 
 ---
+
+
 
