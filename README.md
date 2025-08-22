@@ -1,8 +1,7 @@
-## 🔗 Atalhos Rápidos
-- [📘 Atividades](#-estrutura-do-repositório)  
-- [📖 Teoria](#-referências-de-estudo)  
-- [💻 Cursos](#-referências-de-estudo)  
-- [📄 PDFs](#-referências-de-estudo)  
+## 🔗 Acesso Rápido aos Arquivos
+- [📘 Atividades](https://github.com/felipem5552/estudo.javascript.iniciante/tree/main/exercicios)
+- [📖 Teoria](https://github.com/felipem5552/estudo.javascript.iniciante/tree/main/anotacoes)
+- [💻 Projetos](https://github.com/felipem5552/estudo.javascript.iniciante/tree/main/projetos)
 
 # Estudo JavaScript - Iniciante
 
@@ -14,11 +13,11 @@ Este repositório é um **acervo completo de exercícios, teorias e recursos** p
 ## 🎯 Objetivos
 - 📌 Criar um **histórico organizado de atividades**  
 - 📌 Manter uma **fonte de estudo prática e teórica**  
-- 📌 Compartilhar conteúdo útil para **quem está começando**  
+- 📌 Compartilhar conteúdo útil para **todos que estão começando**  
 
 ---
 
-## 🙏 Agradecimentos
+## 🙏 Agradecimentos a todos que cederam a estrutura de estudo
 - 🎓 **IFG - Instituto Federal Goiano**  
 - 🎓 **Softex Pernambuco (Bolsa Futuro Digital)**  
 
@@ -49,9 +48,9 @@ Este repositório é um **acervo completo de exercícios, teorias e recursos** p
 
 ## 🗂 Estrutura do Repositório
 
-- 📂 **atividades** → códigos práticos  
-- 📂 **teoria** → anotações explicativas  
-- 📂 **recursos** → links, PDFs e outros materiais  
+- 📂 **atividades** → códigos e exercícios práticos feitos em sala de aula ou por iniciativa própria
+- 📂 **anotações** → anotações explicativas e a teoria dos conteúdos
+- 📂 **projetos** → atividades mais completas, geralmente envolvendo vários conhecimentos exercitados em uma única atividade  
 
 ---
 
