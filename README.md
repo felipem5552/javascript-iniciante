@@ -1,7 +1,7 @@
 ## 🔗 Acesso Rápido aos Arquivos
-- [📘 Atividades](https://github.com/felipem5552/estudo.javascript.iniciante/tree/main/exercicios)
-- [📖 Teoria](https://github.com/felipem5552/estudo.javascript.iniciante/tree/main/anotacoes)
-- [💻 Projetos](https://github.com/felipem5552/estudo.javascript.iniciante/tree/main/projetos)
+- [📘 Atividades](https://github.com/felipem5552/estudo.javascript.iniciante/tree/main/logica-de-programacao/exercicios)
+- [📖 Teoria](https://github.com/felipem5552/estudo.javascript.iniciante/tree/main/logica-de-programacao/anotacoes)
+- [💻 Projetos](https://github.com/felipem5552/estudo.javascript.iniciante/tree/main/logica-de-programacao/projetos)
 
 # Estudo JavaScript - Iniciante
 
