@@ -1,4 +1,4 @@
-// 4️⃣ Adivinhação de Número (If, Else If e Aninhamento)
+// 4️⃣ Adivinhação de Número (If, Else e Else If)
 
 // Neste exercício, vamos aprender a usar várias estruturas condicionais aninhadas (if dentro de if).
 // OBS: if → verifica se uma condição é verdadeira e executa um bloco de código
