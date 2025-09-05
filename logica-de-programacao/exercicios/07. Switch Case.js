@@ -1,7 +1,7 @@
 // 3️⃣ Consulta de Preços com switch
 
-// Neste exercício, vamos utilizar a estrutura condicional "switch"
-// ideal para trabalhar com diversas opções de forma mais organizada do que vários "if...else"
+// Neste exercício, vamos utilizar a estrutura condicional "switch".
+// ideal para trabalhar com diversas opções de forma mais organizada do que vários "if/else".
 
 // 1. Solicite ao usuário que escolha uma fruta a partir de um menu com numeração
 let fruta = prompt(`Tabela de preços - Frutas:
