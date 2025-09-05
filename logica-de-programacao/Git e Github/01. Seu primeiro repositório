@@ -1,0 +1,134 @@
+# Tutorial de Git e Github: Seu primeiro repositório.
+
+Este é um guia para iniciantes que desejam criar seu primeiro repositório, fazer um commit e enviá-lo para o GitHub.  
+
+---
+
+## 🛠️ Passo 1: Instalar e Configurar o Git
+
+Primeiro, vamos instalar o Git em nosso computador.
+
+### 💻 Windows
+Baixe o instalador em:  
+🔗 [git-scm.com/download/win](https://git-scm.com/download/win)
+
+### 🍎 macOS
+Instale usando o Homebrew:
+
+```bash
+brew install git
+```
+
+### 🐧 Linux (Debian/Ubuntu)
+Instale usando o gerenciador de pacotes:
+
+```bash
+sudo apt-get install git
+```
+
+---
+## 📁 Passo 2: Criar um Repositório Local
+
+Agora, vamos criar uma pasta para o nosso projeto e inicializar um repositório Git dentro dela.
+
+### 🔧 Criar a pasta do projeto
+
+No terminal, já com o Git rodando, execute:
+
+```bash
+mkdir meu-primeiro-projeto
+cd meu-primeiro-projeto
+```
+### 🌀 Iniciar o repositório Git
+
+Inicialize o repositório com:
+
+```bash
+git init
+```
+Isso cria uma pasta oculta chamada .git, onde o Git vai armazenar todo o histórico do seu projeto.
+
+### 📝 Criar o primeiro arquivo (README.md)
+
+Vamos adicionar um arquivo inicial para o projeto (Você pode criar pelo terminal ou pela própria pasta criada.)
+
+```bash
+echo "# Meu Primeiro Projeto" > README.md
+```
+Pronto! Agora você já tem um repositório Git local com um arquivo básico criado.
+
+---
+## 💾 Passo 3: Adicionar e Fazer o Primeiro Commit
+
+Um commit é como uma "foto" do seu código naquele momento. Antes de fazê-lo, você precisa adicionar os arquivos ao *staging area*, que é uma espécie de fila para alterações do seu Git.
+
+### ➕ Adicionar arquivo ao staging area
+
+Para adicionar um arquivo específico (exemplo: README.md):
+
+```bash
+git add README.md
+```
+
+### 📝 Fazer o commit
+
+Salve as mudanças com uma mensagem descritiva sobre as alterações feitas, de forma breve, por exemplo:
+
+```bash
+git commit -m "Adicionar arquivo README inicial ao meu GitHub"
+```
+Pronto! Você fez seu primeiro commit no repositório local.
+
+---
+## 🌐 Passo 4: Criar um Repositório no GitHub
+
+Para salvar seu projeto na nuvem, você precisa criar um repositório no GitHub.
+
+### 1. Acesse o GitHub
+
+Vá para [github.com](https://github.com) e faça login na sua conta.
+
+### 2. Crie um novo repositório
+
+No canto superior direito, clique em **+** e selecione **New repository**.
+
+### 3. Configure o repositório
+
+- **Repository name:** dê um nome, por exemplo, `meu-primeiro-projeto`.
+- **Visibility:** escolha `Public` ou `Private`.
+- **Importante:** não marque a opção para adicionar um README.md ou .gitignore, pois você já criou esses arquivos localmente.
+
+### 4. Crie o repositório
+
+Clique em **Create repository**.  
+O GitHub mostrará instruções para conectar seu repositório local ao remoto.
+
+---
+## 🚀 Passo 5: Conectar e Fazer o Push para o GitHub
+
+Agora vamos linkar seu projeto local com o repositório que você criou no GitHub e enviar seus arquivos.
+
+### ➕ Adicionar o repositório remoto
+
+Execute o comando fornecido pelo GitHub, que será parecido com este (substitua pelo seu usuário e repositório):
+
+```bash
+git remote add origin https://github.com/seu-nome-de-usuario/meu-primeiro-projeto.git
+```
+
+### 🔄 Renomear a branch (opcional)
+
+Se sua branch local ainda for master, renomeie para main, que é o padrão atual do GitHub:
+
+```bash
+git branch -M main
+```
+Mudar de `master` para `main` é para seguir o padrão atual do GitHub, que usa `main` como nome padrão da branch principal e promove uma linguagem mais inclusiva.
+
+##📤 Fazer o push
+
+```bash
+git push -u origin main
+```
+
+
