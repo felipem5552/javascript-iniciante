@@ -25,32 +25,30 @@ Este repositório é um **acervo completo de exercícios, teorias e recursos** p
 
 ## 📚 Referências de Estudo
 
-### 📖 JavaScript — Guias e Tutoriais
+<details>
+<summary><strong>📚 LÓGICA DE PROGRAMAÇÃO</strong></summary>
+
+> 📖 JavaScript — Guias e Tutoriais
 
 <details>
 <summary>📘 Clique para expandir</summary>
 
 - [Guia de JavaScript - MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)  
 - [JavaScript para Iniciantes - Logap](https://logap.com.br/blog/javascript-para-iniciantes/)  
-- [Lógica de Programação com JavaScript - Dev.to](https://dev.to/telles/logica-de-programacao-com-javascript-iniciante-309n) 
-- [Curso de Lógica de Programação com JavaScript - Udemy](https://www.udemy.com/course/logica-de-programacao-com-javascript-g/learn/lecture/29491648#overview)   
+- [Lógica de Programação com JavaScript - Dev.to](https://dev.to/telles/logica-de-programacao-com-javascript-iniciante-309n)  
 
 </details>
 
----
-
-### 🧰 Git e GitHub
+> 💻 Cursos Online
 
 <details>
 <summary>🔧 Clique para expandir</summary>
 
-- [Curso Git e GitHub para Iniciantes - Udemy](https://www.udemy.com/course/git-e-github-para-iniciantes/)  
+- [Curso de Lógica de Programação com JavaScript - Udemy](https://www.udemy.com/course/logica-de-programacao-com-javascript-g/learn/lecture/29491648#overview)  
 
 </details>
 
----
-
-### 🧪 Atividades e Exercícios
+> 🧪 Atividades e Exercícios
 
 <details>
 <summary>🧾 Clique para expandir</summary>
@@ -60,14 +58,30 @@ Este repositório é um **acervo completo de exercícios, teorias e recursos** p
 
 </details>
 
----
-
-### 📄 PDFs e Materiais Complementares
+> 📄 PDFs e Materiais Complementares
 
 <details>
 <summary>📚 Clique para expandir</summary>
 
 - [Lógica de Programação e Algoritmos com JavaScript - PDF (Edécio Iepsen)](https://www.kufunda.net/publicdocs/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos%20com%20JavaScript%20(Ed%C3%A9cio%20Fernando%20Iepsen).pdf)  
+
+</details>
+
+</details>
+
+---
+
+<details>
+<summary><strong>🧰 GITHUB</strong></summary>
+
+> 🧰 Git e GitHub
+
+<details>
+<summary>🔧 Clique para expandir</summary>
+
+- [Curso Git e GitHub para Iniciantes - Udemy](https://www.udemy.com/course/git-e-github-para-iniciantes/)  
+
+</details>
 
 </details>
 
