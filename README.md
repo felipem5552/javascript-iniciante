@@ -42,7 +42,7 @@ Este repositório é um **acervo completo de exercícios, teorias e recursos** p
 > 💻 Cursos Online
 
 <details>
-<summary>🔧 Clique para expandir</summary>
+<summary>🔧 > 💻 Cursos Online</summary>
 
 - [Curso de Lógica de Programação com JavaScript - Udemy](https://www.udemy.com/course/logica-de-programacao-com-javascript-g/learn/lecture/29491648#overview)  
 
