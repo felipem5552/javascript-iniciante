@@ -28,7 +28,7 @@ Este repositório é um **acervo completo de exercícios, teorias e recursos** p
 <details>
 <summary><strong>📚 LÓGICA DE PROGRAMAÇÃO</strong></summary>
 
-> 📖 JavaScript — Guias e Tutoriais
+> ## 📖 JavaScript — Guias e Tutoriais
 
 <details>
 <summary>📘 Clique para expandir</summary>
