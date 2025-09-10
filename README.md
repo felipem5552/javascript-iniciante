@@ -25,10 +25,7 @@ Este repositório é um **acervo completo de exercícios, teorias e recursos** p
 
 ## 📚 Referências de Estudo
 
-<details>
-<summary><strong>📚 LÓGICA DE PROGRAMAÇÃO</strong></summary>
-
-> ## 📖 JavaScript — Guias e Tutoriais
+### 📖 Guias, Tutoriais e Cursos
 
 <details>
 <summary>📘 Clique para expandir</summary>
@@ -36,56 +33,23 @@ Este repositório é um **acervo completo de exercícios, teorias e recursos** p
 - [Guia de JavaScript - MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)  
 - [JavaScript para Iniciantes - Logap](https://logap.com.br/blog/javascript-para-iniciantes/)  
 - [Lógica de Programação com JavaScript - Dev.to](https://dev.to/telles/logica-de-programacao-com-javascript-iniciante-309n)  
-
-</details>
-
-> 💻 Cursos Online
-
-<details>
-<summary>🔧 > 💻 Cursos Online</summary>
-
 - [Curso de Lógica de Programação com JavaScript - Udemy](https://www.udemy.com/course/logica-de-programacao-com-javascript-g/learn/lecture/29491648#overview)  
+- [Curso Git e GitHub para Iniciantes - Udemy](https://www.udemy.com/course/git-e-github-para-iniciantes/)  
 
 </details>
 
-> 🧪 Atividades e Exercícios
+---
+
+### 🧪 Atividades, Exercícios e Materiais Práticos
 
 <details>
 <summary>🧾 Clique para expandir</summary>
 
 - [Lista de Exercícios - IFRN (PDF)](https://docentes.ifrn.edu.br/jonathanpereira/disciplinas/algoritmos/lista-de-exercicios-2/at_download/file)  
 - [Repositório de Exercícios - Tiago Vignatti (GitHub)](https://github.com/tiagovignatti/exercicios-javascript?tab=readme-ov-file#exerc%C3%ADcio-11)  
-
-</details>
-
-> 📄 PDFs e Materiais Complementares
-
-<details>
-<summary>📚 Clique para expandir</summary>
-
 - [Lógica de Programação e Algoritmos com JavaScript - PDF (Edécio Iepsen)](https://www.kufunda.net/publicdocs/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos%20com%20JavaScript%20(Ed%C3%A9cio%20Fernando%20Iepsen).pdf)  
 
 </details>
-
-</details>
-
----
-
-<details>
-<summary><strong>🧰 GITHUB</strong></summary>
-
-> 🧰 Git e GitHub
-
-<details>
-<summary>🔧 Clique para expandir</summary>
-
-- [Curso Git e GitHub para Iniciantes - Udemy](https://www.udemy.com/course/git-e-github-para-iniciantes/)  
-
-</details>
-
-</details>
-
-
 
 
 ---
