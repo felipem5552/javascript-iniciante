@@ -54,11 +54,16 @@ Este repositório é um **acervo completo de exercícios, teorias e recursos** p
 
 ---
 
-## 🗂 Estrutura do Repositório
+## 🗂️ Estrutura de Pastas
 
-- 📂 **atividades** → códigos e exercícios práticos feitos em sala de aula ou por iniciativa própria
-- 📂 **anotações** → anotações explicativas e a teoria dos conteúdos
-- 📂 **projetos** → atividades mais completas, geralmente envolvendo vários conhecimentos exercitados em uma única atividade  
+- 📚 `curso-bolsa-futuro-digital/`  
+  Exercícios e conteúdos oficiais do curso Bolsa Futuro Digital.
+
+- 🧑‍💻 `pessoais/`  
+  Meus estudos extras e projetos pessoais, organizados em:  
+  ├─ 📝 `anotacoes/` — Resumos e anotações de estudo  
+  ├─ 🎯 `desafios-internet/` — Exercícios retirados da internet  
+  └─ 🚀 `projetos/` — Projetos práticos para fixar conceitos  
 
 ---
 
