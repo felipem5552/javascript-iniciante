@@ -1,7 +1,9 @@
 ## 🔗 Acesso Rápido aos Arquivos
-- [📘 Atividades](https://github.com/felipem5552/estudo.javascript.iniciante/tree/main/logica-de-programacao/exercicios)
-- [📖 Teoria](https://github.com/felipem5552/estudo.javascript.iniciante/tree/main/logica-de-programacao/anotacoes)
-- [💻 Projetos](https://github.com/felipem5552/estudo.javascript.iniciante/tree/main/logica-de-programacao/projetos)
+
+- [📘 Exercícios do Curso Bolsa Futuro Digital](https://github.com/felipem5552/javascript-iniciante/tree/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios)
+- [📖 Anotações do Curso](https://github.com/felipem5552/javascript-iniciante/tree/main/curso-bolsa-futuro-digital/logica-de-programacao/anotacoes)
+- [💻 Projetos do Curso](https://github.com/felipem5552/javascript-iniciante/tree/main/curso-bolsa-futuro-digital/logica-de-programacao/projetos)
+- [🧪 Exercícios Pessoais](https://github.com/felipem5552/javascript-iniciante/tree/main/exercicios-pessoais)
 
 # Estudo JavaScript - Iniciante
 
