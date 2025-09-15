@@ -1,6 +1,7 @@
-## 🔗 Acesso Rápido aos Arquivos Importantes
+# 🔗 Acesso Rápido aos Exercícios de JavaScript
 
-A seguir você terá uma lista de exercícios de codificação que chegará a 200 exercícios. 😎
+Bem-vindo(a)! 😎  
+Abaixo você encontrará uma lista de **200 exercícios de codificação em JavaScript** para praticar lógica de programação. 
 
 Você deverá criar uma pasta com o nome 200exerciciosJavascript.
 Em seguida deverá transforma-la em um repositório do GIT (git init)
