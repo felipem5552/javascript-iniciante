@@ -1,4 +1,4 @@
-## 🔗 Acesso Rápido aos Arquivos
+## 🔗 Acesso Rápido aos Arquivos Importantes
 
 - [📘 Exercícios do Curso Bolsa Futuro Digital](https://github.com/felipem5552/javascript-iniciante/tree/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios)
 - [📖 Anotações do Curso](https://github.com/felipem5552/javascript-iniciante/tree/main/curso-bolsa-futuro-digital/logica-de-programacao/anotacoes)
