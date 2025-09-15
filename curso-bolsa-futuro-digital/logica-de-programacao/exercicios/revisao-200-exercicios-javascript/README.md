@@ -8,18 +8,14 @@ Depois usando o VS Code você criará um arquivo com extensão JS para cada exer
 Ao concluir o exercício execute-o no console do navegador.
 Estando correto, faça o commit localmente. (git commit -m 'mensagem do commit')
 
-Coloque o enunciado de cada exercício como comentário dentro do código e como mensagem dentro do commit.
-A cada 5 exercícios envie os exercícios para o repositório remoto. (git push)
+## Exercícios de Revisão - JavaScript
 
-Exercício 1: Declare duas variáveis chamadas "idade" e "peso", atribua valores a elas e imprima os valores na console.
+1. [Exercício 01](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-01.js) – Declare duas variáveis chamadas "idade" e "peso", atribua valores a elas.
+2. [Exercício 02](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-02.js) – Declare uma constante chamada "PI", atribua o valor de Pi a ela.
+3. [Exercício 03](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-03.js) – Declare uma variável chamada númeroMáximo, atribua a ela o valor máximo.
+4. [Exercício 04](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-04.js) – Declare duas variáveis chamadas nome e sobrenome, atribua o seu nome e sobrenome a elas.
+5. [Exercício 05](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-05.js) – Declare duas variáveis e atribua valores numéricos a elas. Use o operador adequado.
 
-Exercício 2: Declare uma constante chamada "PI", atribua o valor de Pi a ela e imprima o valor na console.
-
-Exercício 3: Declare uma variável chamada "númeroMáximo", atribua a ela o valor máximo que um número pode ter em JavaScript e imprima o valor na console.
-
-Exercício 4: Declare duas variáveis chamadas "nome" e "sobrenome", atribua o seu nome e sobrenome a elas. Concatene-as em uma terceira variável chamada "nomeCompleto" e imprima.
-
-Exercício 5: Declare duas variáveis e atribua valores numéricos a elas. Use o operador de adição para realizar operações entre as duas variáveis. Imprima o resultado.
 
 Exercício 6: Declare duas variáveis e atribua valores booleanos a elas. Use os operadores lógicos AND, OR e NOT para realizar operações lógicas entre as variáveis. Imprima os resultados.
 
