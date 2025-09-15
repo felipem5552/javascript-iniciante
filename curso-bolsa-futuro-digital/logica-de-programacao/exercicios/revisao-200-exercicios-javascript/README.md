@@ -16,7 +16,9 @@ Estando correto, faça o commit localmente. (git commit -m 'mensagem do commit')
 3. [Exercício 03](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-03.js) – Declare uma variável chamada númeroMáximo, atribua a ela o valor máximo.
 4. [Exercício 04](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-04.js) – Declare duas variáveis chamadas nome e sobrenome, atribua o seu nome e sobrenome a elas.
 5. [Exercício 05](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-05.js) – Declare duas variáveis e atribua valores numéricos a elas. Use o operador adequado.
+---
 
+EXERCICIOS PENDENTES:
 
 Exercício 6: Declare duas variáveis e atribua valores booleanos a elas. Use os operadores lógicos AND, OR e NOT para realizar operações lógicas entre as variáveis. Imprima os resultados.
 
