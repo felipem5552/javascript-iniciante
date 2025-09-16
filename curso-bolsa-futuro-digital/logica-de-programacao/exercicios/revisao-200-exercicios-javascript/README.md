@@ -3,7 +3,7 @@
 Bem-vindo(a)! 😎  
 Abaixo você encontrará uma lista de **200 exercícios de codificação em JavaScript** para praticar lógica de programação. 
 
-Você deverá criar uma pasta com o nome 200exerciciosJavascript.
+Você deverá criar uma pasta com o nome **200exerciciosJavascript**.
 Em seguida deverá transforma-la em um repositório do GIT (git init)
 Depois usando o VS Code você criará um arquivo com extensão JS para cada exercício o nome de cada arquivo será o próprio número do exercício (ex: exercicio01)
 Ao concluir o exercício execute-o no console do navegador.
