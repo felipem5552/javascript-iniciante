@@ -30,7 +30,7 @@ Abaixo você encontrará uma lista de **200 exercícios de codificação em Java
 <details>
   <summary>🔧 <strong>Exercícios Pendentes</strong></summary>
 
-- **Exercício 11:** Escreva um programa que verifica se uma pessoa pode votar com base na idade.  
+- **Exercício 11:** Verifique se uma pessoa pode votar com base na idade.  
 - **Exercício 12:** Verifique a situação de um estudante de acordo com sua média final.  
 - **Exercício 13:** Calcule o IMC e imprima a classificação.  
 - **Exercício 14:** Verifique se um ano é bissexto.  
@@ -74,6 +74,16 @@ Abaixo você encontrará uma lista de **200 exercícios de codificação em Java
 - **Exercício 53:** Função que verifica se um número é primo.  
 - **Exercício 54:** Ordene um array de números em ordem decrescente.  
 - **Exercício 55:** Retorne o menor número de um array de números.  
+- **Exercício 56:** Função que retorne o maior número em um array de números.  
+- **Exercício 57:** Função que retorne a soma de todos os números ímpares em um array de números.  
+- **Exercício 58:** Função que retorne a soma de todos os números pares em um array de números.  
+- **Exercício 59:** Função que receba um array de números e retorne um novo array com todos os números duplicados.  
+- **Exercício 60:** Função que receba um array de números e retorne um novo array com todos os números ao quadrado.  
+- **Exercício 61:** Função que receba um array de números e retorne um novo array com a raiz quadrada de todos os números.  
+- **Exercício 62:** Função que receba um número e retorne uma string repetida aquele número de vezes.  
+- **Exercício 63:** Função que receba um número e retorne um array com todos os números primos até aquele número.  
+- **Exercício 64:** Função que receba uma string e retorne o número de palavras na string.  
+- **Exercício 65:** Função que aceite um array de números e uma função de callback e retorne a soma de todos os números do array após a aplicação da função de callback.  
 
 </details>
 
