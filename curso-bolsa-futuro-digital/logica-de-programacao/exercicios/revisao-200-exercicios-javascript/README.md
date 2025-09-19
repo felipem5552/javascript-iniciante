@@ -24,20 +24,19 @@ Abaixo você encontrará uma lista de **200 exercícios de codificação em Java
 8. [Exercício 08](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-08.js) – Declare uma variável e atribua um valor numérico a ela. Use o operador de incremento para aumentar o valor da variável. Imprima o resultado.  
 9. [Exercício 09](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-09.js) – Escreva um programa que recebe um número e verifica se ele é positivo, negativo ou zero.  
 10. [Exercício 10](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-10.js) – Escreva um programa que recebe duas notas de um aluno, calcula a média e imprime se o aluno foi aprovado ou reprovado (considerando que a média para aprovação é 7).  
-
+11. [**Exercício 11**](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-11.js) – Verifique se uma pessoa pode votar com base na idade.  
+12. [**Exercício 12**](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-12.js) – Verifique a situação de um estudante de acordo com sua média final.  
+13. [**Exercício 13**](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-13.js) – Calcule o IMC e imprima a classificação.  
+14. [**Exercício 14**](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-14.js) – Verifique se um ano é bissexto.  
+15. [**Exercício 15**](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-15.js) – Verifique se uma palavra é um palíndromo.  
+16. [**Exercício 16**](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-16.js) – Determine o maior entre três números.  
+17. [**Exercício 17**](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-17.js) – Verifique se um número é par ou ímpar.  
+18. [**Exercício 18**](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-18.js) – Verifique se uma pessoa pode dirigir com base na idade.  
 ---
 
 <details>
   <summary>🔧 <strong>Exercícios Pendentes</strong></summary>
 
-- **Exercício 11:** Verifique se uma pessoa pode votar com base na idade.  
-- **Exercício 12:** Verifique a situação de um estudante de acordo com sua média final.  
-- **Exercício 13:** Calcule o IMC e imprima a classificação.  
-- **Exercício 14:** Verifique se um ano é bissexto.  
-- **Exercício 15:** Verifique se uma palavra é um palíndromo.  
-- **Exercício 16:** Determine o maior entre três números.  
-- **Exercício 17:** Verifique se um número é par ou ímpar.  
-- **Exercício 18:** Verifique se uma pessoa pode dirigir com base na idade.  
 - **Exercício 19:** Verifique se um número está dentro de um intervalo.  
 - **Exercício 20:** Imprima uma classificação baseada na nota de um aluno.  
 - **Exercício 21:** Determine a estação do ano com base no mês.  
