@@ -65,7 +65,7 @@ Este repositório é um **acervo completo de exercícios, teorias e recursos** p
   Meus estudos extras e projetos pessoais, organizados em:  
   ├─ 📝 `anotacoes/` — Resumos e anotações de estudo  
   ├─ 🎯 `desafios-internet/` — Exercícios retirados da internet  
-  └─ 🚀 `projetos/` — Projetos práticos para fixar conceitos  
+  └─ 🚀 `projetos/` — Projetos práticos para fixar conceitos de forma geral 
 
 ---
 
