@@ -1,7 +1,7 @@
 # Exercícios de Lógica de Programação – Curso Bolsa Futuro Digital
 
 Bem-vindo à pasta de exercícios práticos do curso **Bolsa Futuro Digital**! 🎓  
-Aqui você encontrará uma série de exercícios desenvolvidos para reforçar o aprendizado em lógica de programação utilizando JavaScript. Cada exercício contém **comentários explicativos** que servem como anotação pessoal quanto como um guia de estudo para quem deseja aprender a partir dos exemplos.
+Aqui você vai encontrar uma série de exercícios desenvolvidos para reforçar o aprendizado em lógica de programação utilizando JavaScript. Cada exercício contém **comentários explicativos** que servem como anotação pessoal quanto como um guia de estudo para quem deseja aprender a partir dos exemplos.
 
 ---
 
