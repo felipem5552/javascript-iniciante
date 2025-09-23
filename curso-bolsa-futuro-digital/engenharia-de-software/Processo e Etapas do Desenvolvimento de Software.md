@@ -1,0 +1,75 @@
+# Mapear as fases do processo de desenvolvimento de um sistema  
+**Projeto:** Agendamento de Consultas em uma clínica popular  
+**Autor:** Felipe Mendes Alves
+
+---
+
+## 1️⃣ Levantamento de Requisitos
+A primeira etapa é uma reunião com pessoas importantes para a definição inicial do projeto, aquelas que estão mais próximas das necessidades da clínica:
+- Gestores
+- Recepcionistas
+- Pacientes que deram feedback  
+
+Essa discussão acontece junto com os analistas para que se tenha uma **visão inicial clara do projeto**, levantando as primeiras ideias sobre **objetivos e funcionalidades**.
+
+---
+
+## 2️⃣ Análise de Requisitos
+Depois dessa visão inicial, passamos para a **análise de viabilidade**.  
+Nessa fase discutimos se o projeto realmente pode ser colocado em prática, levando em conta:  
+- Recursos financeiros disponíveis  
+- Equipe necessária  
+- Infraestrutura de tecnologia  
+
+---
+
+## 3️⃣ Projeto
+
+### Projeto Lógico
+Se a ideia for aprovada, seguimos para o **projeto lógico**. Aqui começamos a esboçar como o sistema vai funcionar, desenhando passo a passo as opções que o usuário terá, como por exemplo em um agendamento de consulta:  
+- Cadastro do paciente  
+- Escolha do médico  
+- Seleção de data e horário  
+- Confirmação da consulta  
+
+Para isso, usamos **diagramas de fluxo de atividades** e **diagramas de dados**, que ajudam a visualizar melhor os processos.
+
+### Projeto Físico
+Com o projeto lógico finalizado, entramos na etapa do **projeto físico**.  
+Agora é definido qual será a **estrutura tecnológica do sistema**:  
+- Linguagens de programação  
+- Banco de dados  
+- Servidores  
+- Ferramentas de apoio  
+
+Essa é a fase mais técnica, em que a equipe de TI determina as ferramentas adequadas para **transformar os fluxos e modelos em um sistema real**.
+
+---
+
+## 4️⃣ Implementação
+Com todo o planejamento lógico e físico, começamos a fase de **implementação**, onde os programadores começam a **codificar os códigos** e transformar o sistema em algo funcional, sendo a **versão inicial do sistema já funcionando**.
+
+---
+
+## 5️⃣ Testes
+Verificamos com os desenvolvedores, testadores e alguns usuários como a **versão inicial está se comportando**, corrigindo falhas antes do lançamento para o cliente.
+
+---
+
+## 6️⃣ Implantação
+Após a construção e os testes, chegamos à fase de **implantação**.  
+Nesse momento, o sistema é:  
+- Instalado  
+- Configurado  
+- Disponibilizado para uso  
+
+A equipe também realiza **treinamentos** com os recepcionistas, médicos e demais envolvidos, garantindo que todos saibam **utilizar corretamente as funcionalidades do sistema** no dia a dia da clínica.
+
+---
+
+## 7️⃣ Manutenção
+Por fim, temos a fase de **manutenção**, que garante a **continuidade do sistema**.  
+Aqui são feitas:  
+- Correções de erros  
+- Melhorias de desempenho  
+- Adição de novas funcionalidades
