@@ -32,16 +32,16 @@ Abaixo você encontrará uma lista de **200 exercícios de codificação em Java
 16. [Exercício 16](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-16.js) – Determine o maior entre três números.  
 17. [Exercício 17](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-17.js) – Verifique se um número é par ou ímpar.  
 18. [Exercício 18](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-18.js) – Verifique se uma pessoa pode dirigir com base na idade.  
+19. [Exercício 19](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-19.js) – Verifique se um número está dentro de um intervalo.  
+20. [Exercício 20](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-20.js) – Imprima uma classificação baseada na nota de um aluno.  
+21. [Exercício 21](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-21.js) – Determine a estação do ano com base no mês.  
+22. [Exercício 22](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-22.js) – Determine o número de dias em um mês.  
+23. [Exercício 23](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-23.js) – Verifique as cores de um semáforo.  
 ---
 
 <details>
   <summary>🔧 <strong>Exercícios Pendentes</strong></summary>
-
-- **Exercício 19:** Verifique se um número está dentro de um intervalo.  
-- **Exercício 20:** Imprima uma classificação baseada na nota de um aluno.  
-- **Exercício 21:** Determine a estação do ano com base no mês.  
-- **Exercício 22:** Determine o número de dias em um mês.  
-- **Exercício 23:** Verifique as cores de um semáforo.  
+  
 - **Exercício 24:** Usando um laço for, imprima os números de 1 a 10.  
 - **Exercício 25:** Usando um laço while, imprima os números de 10 a 1.  
 - **Exercício 26:** Usando um laço do-while, imprima os números ímpares de 1 a 20.  
