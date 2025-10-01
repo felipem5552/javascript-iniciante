@@ -1,4 +1,4 @@
-// Exercício 9: Escreva um programa que recebe um número e verifica se ele é positivo, negativo ou zero.
+// Exercício 9: Escreva um programa que recebe um número e verifica se ele é positivo, negativo ou zero
 
 let numero = prompt("Digite um número:")
 
