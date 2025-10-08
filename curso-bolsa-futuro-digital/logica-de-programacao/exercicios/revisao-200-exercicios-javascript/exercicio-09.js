@@ -1,24 +1,11 @@
-//Exercício 10: Escreva um programa que recebe duas notas de um aluno, calcula a média e 
-// imprime se o aluno foi aprovado ou reprovado (considerando que a média para aprovação é 7).
+// Exercício 9: Escreva um programa que recebe um número e verifica se ele é positivo, negativo ou zero
 
-let n1 = parseFloat(prompt(`Consultor de Médias Escolares
-Olá aluno! Digite sua primeira nota:
+let numero = prompt("Digite um número:")
 
-1° Nota = Aguardando...
-2° Nota = Aguardando...
-`))
-
-let n2 = parseFloat(prompt(`Consultor de Médias Escolares
-Olá aluno! Digite sua segunda nota:
-
-1° Nota = ${n1}
-2° Nota = Aguardando...
-`))
-
-let media = (n1 + n2) / 2
-
-if (media => 7) {
-    alert(`Parabéns, você foi aprovado com ${media}`)
+if (numero > 0) {
+    alert(`O número ${numero} é POSITIVO.`)
+} else if (numero < 0) {
+    alert(`O número ${numero} é NEGATIVO.`)
+} else { 
+    alert(`O número é ZERO.`);
 }
-else
-    alert (`Infelizmente você foi reprovado :( A média para passar é 7)`)
