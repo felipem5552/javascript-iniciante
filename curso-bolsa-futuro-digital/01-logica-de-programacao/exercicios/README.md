@@ -18,7 +18,7 @@ Aqui você vai encontrar uma série de exercícios desenvolvidos para reforçar 
 - [revisao-200-exercicios-javascript.js](https://github.com/felipem5552/200-exercicios-javascript)  
   *Revisão Geral - Lógica de Programação*
 
-- [revisao-200-exercicios-typescript.js](https://github.com/felipem5552/200-exercicios-javascript)  
+- [revisao-200-exercicios-typescript.ts](https://github.com/felipem5552/200-exercicios-typescript)  
   *Revisão Geral - Typescript Iniciante*  
 
 - [01. Fundamentos sobre Web e HTTP.md](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/01.%20Fundamentos%20sobre%20Web%20e%20HTTP.md)  
