@@ -32,7 +32,7 @@
 
   *🔹 Recomendado após a conclusão de TypeScript Iniciante*
 
-- [🧪 Exercícios Pessoais / Desafios da Internet]([https://github.com/felipem5552/javascript-iniciante/tree/main/pessoais])
+- [🧪 Exercícios Pessoais / Desafios da Internet](https://github.com/felipem5552/javascript-iniciante/tree/main/pessoais)
 
 # Estudo JavaScript - Iniciante
 
