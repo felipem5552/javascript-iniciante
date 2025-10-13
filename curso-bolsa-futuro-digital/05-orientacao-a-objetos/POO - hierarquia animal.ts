@@ -7,7 +7,23 @@ interface Animal {
 }
 
 class Gato implements Animal {
-    this.name = name
+    nome: string
+
+    constructor(nome: string) {
+        nome: this.nome
+    }
+
+    emitirsom() {
+        console.log("Miau")
+    }
+
+
+    
+
+
+
+
+
 
 
 }
