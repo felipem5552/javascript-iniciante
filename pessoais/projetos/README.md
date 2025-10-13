@@ -18,7 +18,7 @@ Todos os projetos foram desenvolvidos para **executar diretamente no console** o
 
 ## 🗂️ Lista de Projetos
 
-1. **🧮 Calculadora Simples** - 🔗 [Acessar Conteúdo](https://github.com/felipem5552/javascript-iniciante/tree/main/curso-bolsa-futuro-digital/02-git-github)  
+1. **🧮 Calculadora Simples** - 🔗 [Acessar Conteúdo](https://github.com/felipem5552/javascript-iniciante/blob/main/pessoais/projetos/calculadora-simples.js)  
    💬 *Opera soma, subtração, multiplicação e divisão entre dois números.
 
 ---
