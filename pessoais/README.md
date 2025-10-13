@@ -18,7 +18,7 @@ Todos os projetos foram desenvolvidos para **executar diretamente no console** o
 
 ## 🗂️ Lista de Projetos
 
-1. **🧮 Calculadora Simples** - 🔗 [Acessar Conteúdo](https://github.com/felipem5552/javascript-iniciante/blob/main/pessoais/projetos/calculadora-simples.js)  
+1. **🧮 Calculadora Simples** - 🔗 [Acessar Conteúdo](https://github.com/felipem5552/javascript-iniciante/blob/main/pessoais/calculadora-simples.js)  
    💬 *Opera soma, subtração, multiplicação e divisão entre dois números.
 
 ---
