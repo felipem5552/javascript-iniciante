@@ -1,6 +1,6 @@
 interface Animal {
     nome: string
-    emitirSom(): void
+    emitirSom() // Removido o ": void"
 }
 
 class Gato implements Animal {
@@ -10,16 +10,14 @@ class Gato implements Animal {
         this.nome = nome
     }
 
-    emitirSom(): void {
+    emitirSom() {
         console.log(`Miau!`)
     }
 
-    arranhar(): void {
+    arranhar() {
         console.log(`${this.nome} está arranhando o sofá!`)
     }
 }
-
-////////////////////////////////////////////////////
 
 class Passaro implements Animal {
     nome: string
@@ -28,16 +26,14 @@ class Passaro implements Animal {
         this.nome = nome
     }
 
-    emitirSom(): void {
+    emitirSom() {
         console.log(`Piu piu!`)
     }
 
-    voar(): void {
+    voar() {
         console.log(`${this.nome} está voando!`)
     }
 }
-
-////////////////////////////////////////////
 
 const gato = new Gato("Frajola")
 gato.emitirSom()
