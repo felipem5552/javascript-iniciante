@@ -1,5 +1,7 @@
 ## 📚 Estudo dos Materiais por Módulo
 
+**Dica antes de começarmos a apresentação do repositório:** Assista aulas teoricas sobre o assunto, com professores de sua preferência, e após uma base simples do conteúdo, veja o material referente ao assunto estudado.
+
 1. **🧩 Lógica de Programação**  
    🔗 [Acessar Exercícios](https://github.com/felipem5552/javascript-iniciante/tree/main/curso-bolsa-futuro-digital/01-logica-de-programacao/exercicios)  
    💬 *Exercícios de lógica de programação com explicações e comentários de forma cronológica ao aprendizado.*
