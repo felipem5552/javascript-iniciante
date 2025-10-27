@@ -1,0 +1,40 @@
+interface EstadoJogador {
+    ficaronline(): void
+    ficaroffline(): void
+    iniciarjogo(): void
+    pausarjogo(): void
+    desconectar(): void
+}
+
+class Jogador {
+
+public estado:string
+
+    constructor() {
+        this.estado = "Offline"
+    }
+    
+    mostrarEstado(): void {
+        console.log(`O jogador está: ${this.estado}`)
+}
+
+}
+    
+class JogadorAtivo extends Jogador implements EstadoJogador {
+    ficaronline(): void {
+        if (this.estado === "Offline") {
+            this.estado = "Online"
+            console.log("O jogador ficou online.")
+        } else {
+            console.log("O jogador já está online.")
+        }
+    }
+}
+   
+
+
+
+const jogador1 = new JogadorAtivo()
+jogador1.mostrarEstado()
+jogador1.ficaronline()
+jogador1.mostrarEstado()
