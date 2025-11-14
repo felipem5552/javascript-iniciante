@@ -52,7 +52,7 @@ Este repositório é um **acervo completo de exercícios, teorias e recursos** p
 
 ## 🙏 Agradecimentos a todos que cederam a estrutura de estudo
 - 🎓 **IFG - Instituto Federal Goiano**  
-- 🎓 **Softex Pernambuco (Bolsa Futuro Digital)**  
+- 🎓 **Softex Pernambuco (Bolsa Futuro Digital) - Aponti**  
 
 ---
 
