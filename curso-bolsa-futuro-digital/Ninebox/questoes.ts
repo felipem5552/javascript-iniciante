@@ -12,7 +12,7 @@ class BancoDeQuestoes {
 
     criarQuestao(texto, eixo) {
         if (!texto || (eixo !== 'Desempenho' && eixo !== 'Potencial')) {
-         console.log("Texto e Eixo da questão são obrigatórios.")t
+         console.log("Texto e Eixo da questão são obrigatórios.")
         }
         
         const novaQuestao = {
