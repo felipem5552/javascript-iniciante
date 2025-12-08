@@ -37,4 +37,46 @@ class BancoDeQuestoes {
         return this.questoes
     }
   
-    
+    atualizarQuestao(id, novoTexto, novoEixo) {
+        // Encontra a questão pelo ID
+        const questao = this.questoes.find(q => q.id === id)
+
+        if (!questao) {
+            console.log(`Erro: Questão com ID ${id} não encontrada.`)
+            return false
+        }
+
+        if (novoTexto) {
+            questao.texto = novoTexto
+        }
+        
+        if (novoEixo && (novoEixo === 'Desempenho' || novoEixo === 'Potencial')) {
+            questao.eixo = novoEixo
+        }
+
+        console.log(`Questão ID ${id} atualizada.`)
+        return true
+    }
+
+    excluirQuestao(id) {
+        const tamanhoInicial = this.questoes.length
+        // Filtra (mantém) apenas as questões que NÃO têm o ID informado
+        this.questoes = this.questoes.filter(q => q.id !== id)
+        
+        if (this.questoes.length < tamanhoInicial) {
+            console.log(`Questão ID ${id} excluída.`)
+            return true
+        } else {
+            console.log(`Erro: Questão com ID ${id} não encontrada.`)
+            return false
+        }
+    }
+}
+
+// Teste de funcionalidade
+const banco = new BancoDeQuestoes()
+banco.listarQuestoes()
+banco.criarQuestao("É um gestor eficaz para novos colaboradores?", "Potencial")
+banco.atualizarQuestao(1, "O funcionário cumpre os objetivos do trimestre.", "Desempenho")
+banco.excluirQuestao(4)
+banco.listarQuestoes()
