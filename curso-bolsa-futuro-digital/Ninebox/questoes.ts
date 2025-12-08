@@ -60,7 +60,7 @@ class BancoDeQuestoes {
 
     excluirQuestao(id) {
         const tamanhoInicial = this.questoes.length
-        // Filtra (mantém) apenas as questões que NÃO têm o ID informado
+        // Filtra apenas as questões que não têm o ID 
         this.questoes = this.questoes.filter(q => q.id !== id)
         
         if (this.questoes.length < tamanhoInicial) {
